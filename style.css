@@ -129,7 +129,7 @@ object-fit: center;
 	border: none!important;
 	text-align: center!important;
 	align-items: center!important;
-	background-color:  #fe8860!important;
+	background-color:  #0a0808!important;
 	border: none;
 
 }
@@ -149,7 +149,7 @@ object-fit: center;
 }
 
 .card i{
-	color: #8ebef4;
+	color: #fe8860;
 }
 
 /* Product card 1st- end */
